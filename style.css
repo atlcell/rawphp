@@ -3,7 +3,7 @@
 	margin: 30px auto;
 	text-align: center;
 	color: yellow;
-	background: coral;
+	background: #14424b;
 	border: 2px solid yellow;
 	border-radius: 20px;
 }
@@ -13,7 +13,7 @@ form {
 	margin: 30px auto;
 	border-radius: 5px;
 	padding: 10px;
-	background: coral;
+	background: #14424b;
 	border: 1px solid yellow;
 }
 
@@ -31,7 +31,7 @@ form p {
 
 .add_btn {
 	height: 39px;
-	background: coral;
+	background: #14424b;
 	color: yellow;
 	border: 2px solid yellow;
 	border-radius: 5px;
@@ -65,7 +65,7 @@ tr:hover {
 }
 
 .task {
-	text-align: left;
+	text-align: center;
 }
 
 .delete {
