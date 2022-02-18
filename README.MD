@@ -1,4 +1,6 @@
-# Marcell MoveHQ Example
+# rawPHP
+
+simply showcasing what I can do with rawPHP in less than ~2 hours :: simple and crude PHP ToDo App
 
 ![screen](screen.png)
 
